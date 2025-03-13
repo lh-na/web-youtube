@@ -123,7 +123,7 @@
         outline: auto;
         outline-style: dotted;
         border: 3px solid lime;
-        background: linear-gradient(45deg, black, blue, red );
+        background: linear-gradient(45deg, lime, black, blue);
     }
     50%{
         transform: rotate(720deg) scale(0.5) perspective(500px) rotateY(180deg);
