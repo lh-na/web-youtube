@@ -30,29 +30,29 @@ export const headerMenus = [
     {
         title:"추천 영화",
         icon:<FiImage />,
-        src: "movie"
+        src: "/movie"
     },
     {
         title:"추천 도서",
         icon:<FiEdit2 />,
-        src: "book"
+        src: "/book"
     },
     {
         title:"추천 애니",
         icon:<FiGithub />,
-        src: "anime"
+        src: "/anime"
     },
     {
         title:"유튜브 사이트",
         icon:<FiLock />,
-        src: "youtube"
+        src: "/youtube"
     }
 ];
 
 export const searchKeyword = [
     {
         title:"My youtube",
-        src: "/youtube"
+        src: "/"
     },
     {
         title:"HTML",
