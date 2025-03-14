@@ -5,8 +5,8 @@ import Music from '../components/contents/Music'
 import Movie from '../components/contents/Movie'
 import Book from '../components/contents/Book'
 import Anime from '../components/contents/Anime'
-import Portfolio from '../components/contents/Portfolio'
-import Youtube from '../components/contents/Youtube'
+// import Portfolio from '../components/contents/Portfolio'
+// import Youtube from '../components/contents/Youtube'
 
 
 const Home = () => {
@@ -17,8 +17,8 @@ const Home = () => {
         <Movie/>
         <Book/>
         <Anime/>
-        <Portfolio/>
-        <Youtube/>
+        {/* <Portfolio/>
+        <Youtube/> */}
     </Main>
   )
 }
